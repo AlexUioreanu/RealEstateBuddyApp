@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Real Estate Buddy</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_about">About</string>
+    <string name="hyperlink">by DTT  <a href="https://www.d-tt.nl/">d-tt.nl</a></string>
+    <string name="authorName">ALEXANDRU UIOREANU</string>
+    <string name="appName">DTT REAL ESTATE</string>
+    <string name="hintSearchView">Search for a house</string>
+    <string name="sample_price">$45,000</string>
+    <string name="sample_city">Raamgrach</string>
+    <string name="sample_zip">1011KH</string>
+    <string name="sample_bedNr">1</string>
+    <string name="sample_surface">1</string>
+    <string name="sample_bathNr">1</string>
+    <string name="sample_gpsNr">54,6km</string>
+    <string name="sample_Image">Location Picture</string>
+    <string name="favorites_added">Added to favorites!</string>
+    <string name="favorites_removed">Removed from favorites!</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="location_image">Location Image</string>
+    <string name="viewDescriptionTitle">Description</string>
+    <string name="view_description_sample">Prachtige monumentale, vrijstaande dijkwoning gelegen aan de geliefde Buiksloterdijk in Amsterdam Noord. De woning, welke al sinds ca. 1969 wordt bewoond door de huidige eigenaren, is voorzien van 3 slaapkamers, een ruime woonkamer op de begane grond en benedendijks van een ruime woonkeuken met aangrenzend de zitkamer en badkamer(2016). Het pand is altijd met veel zorg onderhouden. De buitenzijde is betimmerd met het inmiddels zeldzame Redwood hout en in ca. 1980 zijn de funderingsmuren opnieuw opgemetseld. In de goed onderhouden tuin is er altijd wel een zonnige plek te vinden. Zowel de voor als de achterzijde kijken uit over het water.</string>
+    <string name="view_location_title">Location</string>
+    <string name="about_title">Design and Development</string>
+    <string name="about_description">Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat null pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dikire magna aliqua . Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</string>
+    <string name="sample_size">477</string>
+    <string name="app_icon_splash_description">App Icon</string>
+    <string name="app_icon">App Icon</string>
+</resources>
